@@ -3,11 +3,17 @@
 Tutorial
 
 Step 1: Visit Github.com
+
 Step 2: Create an account
+
 Step 3: Download Git: https://git-scm.com/downloads
+
 Step 4: Download Webstorm: https://www.jetbrains.com/webstorm/download/#section=windows
+
 Step 5: Once all are installed go to the link, follow the steps, and connect your github to your git: https://kbroman.org/github_tutorial/pages/first_time.html
+
 Step 6: After that follow this link and follow the steps to connect your webstorm to you github account: https://www.jetbrains.com/help/webstorm/github.html
+
 Step 7: When all of that is done, congratulations you can now utilize git, github, and webstorm for all your personal coding needs!
 
 
@@ -41,8 +47,13 @@ Repository- A space on github that stores project files as well as revision hist
 Resources
 
 https://git-scm.com/downloads
+
 https://www.jetbrains.com/webstorm/download/#section=windows
+
 https://docs.github.com/en/get-started/quickstart/set-up-git
+
 https://docs.github.com/en/get-started/quickstart/create-a-repo
+
 https://kbroman.org/github_tutorial/pages/first_time.html
+
 https://www.jetbrains.com/help/webstorm/github.html
